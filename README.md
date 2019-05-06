@@ -1,2 +1,6 @@
 Hi
 Hello
+<<<<<<< HEAD
+=======
+I AM NARA.PRATHYUSHA
+>>>>>>> 20e21ca840e76330e902ed7918511098f50edf6a

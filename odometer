@@ -1,0 +1,4 @@
+int(input())
+li = [i for i in (12,90) if i % 10 > i //10]
+print(["invalid" if n not in li else [li[0], li[li.index(n)-1]]if n == 89 [li[li.index(n) - 1],li[li.index(n) + 1]]])   
+      
